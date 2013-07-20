@@ -13,7 +13,7 @@ Step 1 - Install Package
 Double-click the package in this disk image to install. This installs
 git to /usr/local/git. Root access is required.
 
-
+sdasdsadsads
 
 Step 2 - Restart bash sessions
 ------------------------------
